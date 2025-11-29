@@ -6,7 +6,7 @@
 
 ## 👋 Hi, I’m Krisha!
 
-I’m a Computer Science student at the University of Georgia (UGA) with an AI emphasis, specializing in full-stack web development and machine learning applications. I’m passionate about turning ideas into real, user-ready products — especially tools that help communities, students, or education systems.
+I’m a Computer Science student at the University of Georgia (UGA) with an AI emphasis, specializing in full-stack web development and machine learning applications. I’m passionate about turning ideas into real, user-ready products, especially tools that help communities, students, or education systems.
 
 I’m currently developing multiple full-stack apps, ML projects, and research-based tools while preparing for Software Engineering internships.
 
