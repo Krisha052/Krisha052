@@ -1,10 +1,11 @@
 🌟 Krisha Rathod
+
 Full-Stack Developer • AI/ML Builder • CS @ UGA ’27
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=7C3AED&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%2F+ML+Engineer+in+Training;Building+Real+Products;Always+Improving+%26+Always+Learning!" /> </p>
+
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=7C3AED&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%2F+ML+Engineer+in+Training;Building+Real+Products;Always+Improving+%26+Always+Learning!"/> </p>
 👋 Hi, I’m Krisha!
 
-I’m a Computer Science student at the University of Georgia (UGA) with an AI emphasis, specializing in full-stack web development and machine learning applications.
-I’m passionate about turning ideas into real, user-ready products — especially tools that help communities, students, or education systems.
+I’m a Computer Science student at the University of Georgia (UGA) with an AI emphasis, specializing in full-stack web development and machine learning applications. I’m passionate about turning ideas into real, user-ready products — especially tools that help communities, students, or education systems.
 
 I’m currently developing multiple full-stack apps, ML projects, and research-based tools while preparing for Software Engineering internships.
 
@@ -25,7 +26,7 @@ Wireframing (Figma)
 
 UI/UX patterns
 
-CSS styling systems: Flexbox, Grid, animations
+CSS systems: Flexbox, Grid, animations
 
 ⚙️ Backend Development
 
@@ -33,11 +34,11 @@ Node.js + Express (REST APIs, routing, middleware)
 
 Authentication: JWT, bcrypt, sessions
 
-REST API design and documentation
+REST API design & documentation
 
-MVC structure and modular routing
+MVC architecture + modular routing
 
-Request validation + error handling
+Request validation & error handling
 
 File uploads using Multer
 
@@ -55,15 +56,15 @@ Query optimization, indexes, validations
 
 🤖 Artificial Intelligence / Machine Learning
 
-ML Concepts: Classification, feature engineering, pipelines
+ML Concepts: classification, feature engineering, pipelines
 
 Random Forest, SVM, Decision Trees
 
-Natural Language Processing (SpaCy, rule-based NLP)
+NLP (SpaCy, rule-based NLP pipelines)
 
-Speech-to-text using Whisper
+Whisper speech-to-text
 
-Dataset cleaning, preprocessing, and imputation
+Dataset cleaning & preprocessing
 
 Evaluation metrics (accuracy, recall, F1-score)
 
@@ -81,7 +82,7 @@ API response validation
 
 🛠️ Tools & Platforms
 
-Git + GitHub (branches, merge, PRs)
+Git + GitHub (branches, merges, PRs)
 
 VS Code
 
@@ -93,7 +94,7 @@ Figma
 
 MongoDB Atlas
 
-Google Cloud (Whisper model integration basics)
+Google Cloud (Whisper integration basics)
 
 🚧 Projects (What I’m Building)
 🎟️ Dawg-Tickets
@@ -104,11 +105,11 @@ Node.js + Express backend
 
 JWT authentication
 
-MongoDB database models (User, Listing, Trade)
+MongoDB models (User, Listing, Trade)
 
 Role-based views & protected routes
 
-Ticket listing creation, trade requests, filters
+Ticket listing creation + trade requests
 
 Multer image upload for listing pictures
 
@@ -116,7 +117,7 @@ Fully built UI (HTML/CSS/JS)
 
 🤝 EventMatch
 
-An event-networking app that matches attendees based on interests
+Event-networking app that matches attendees based on interests
 
 React Native front-end
 
@@ -140,17 +141,17 @@ Python backend
 
 NLP phoneme analysis
 
-Random Forest classifier for early detection
+Random Forest classifier
 
-Report dashboard for teachers & parents
+Dashboard for teachers & parents
 
-EdTech-focused, accessibility-first design
+Accessibility-first EdTech design
 
 ♟️ Chess AI Engine
 
 Pygame interface
 
-Minimax with alpha-beta pruning
+Minimax + alpha-beta pruning
 
 Move scoring heuristics
 
@@ -164,16 +165,19 @@ Secure a Software Engineering internship (SWE)
 
 Become a strong full-stack + AI/ML engineer
 
-Continue building real-world impact projects
+Build real-world, high-impact projects
 
-Use AI to support education, accessibility, and equity
+Use AI to support accessibility & education
 
 📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" width="49%"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" width="40%"/> </p>
+
+Replace YOUR_USERNAME with Krisha052
+
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Krisha052&theme=radical" width="49%"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krisha052&layout=compact&theme=radical" width="40%"/> </p>
 💬 Outside of Code
 
-I love reading, mentoring other students, volunteering, and brainstorming product ideas.
-I’m always working to improve as a developer, thinker, and builder.
+I love reading, mentoring other students, volunteering, and brainstorming new product ideas. I’m always working to improve as a developer, thinker, and builder.
 
-📫 Connect with me:
-🔗 https://www.linkedin.com/in/krisharathod
+📫 Connect with me
+
+🔗 LinkedIn: https://www.linkedin.com/in/krisharathod
