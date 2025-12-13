@@ -1,6 +1,6 @@
 ## 🌟 Krisha Rathod
 
-### Full-Stack Developer • AI/ML Builder • CS @ UGA ’27
+### Full-Stack Developer • AI/ML Builder • CS @ UGA ’2
 
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=7C3AED&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%2F+ML+Engineer+in+Training;Building+Real+Products;Always+Improving+%26+Always+Learning!"/> </p>
 
