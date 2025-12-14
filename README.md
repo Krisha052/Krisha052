@@ -121,4 +121,4 @@ I love reading, mentoring other students, volunteering, and brainstorming new pr
 
 ### 📫 Connect with me
 
-🔗 LinkedIn: https://www.linkedin.com/in/krisharathod
+🔗 LinkedIn: https://www.linkedin.com/in/krisharathod05
