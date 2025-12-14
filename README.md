@@ -1,4 +1,4 @@
-## 🌟 Krisha Ratho
+## 🌟 Krisha Rathos
 
 ### Full-Stack Developer • AI/ML Builder • CS @ UGA ’27
 
